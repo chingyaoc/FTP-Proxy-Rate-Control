@@ -1,4 +1,4 @@
-FTP Proxy
+FTP Proxy with Rate Control
 ==
 Simple FTP Proxy for Rate control
 
