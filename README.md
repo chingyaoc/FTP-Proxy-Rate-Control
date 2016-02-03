@@ -34,6 +34,3 @@ The ratecontrol function looks like this.
 ```sh
 rate_control(t, rate, old_size, MagicNumber);
 ```
-# FTP-proxy
-# FTP-Proxy
-# FTP-Proxy
